@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://psyrinea.github.io/sitemap.html.gz
+Sitemap: https://psyrinea.github.io/app/sitemap.html.gz
+Sitemap: https://psyrinea.github.io/assets/sitemap.html.gz
+Sitemap: https://psyrinea.github.io/css/sitemap.html.gz
+Sitemap: https://psyrinea.github.io/includes/sitemap.html.gz
+Sitemap: https://psyrinea.github.io/item/sitemap.html.gz
+Sitemap: https://psyrinea.github.io/src/sitemap.html.gz
